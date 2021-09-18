@@ -3,7 +3,7 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
-url = "http://news.bbc.co.uk/2/hi/health/2284783.stm"
+url = "http://news.bbc.co.uk/"
 html = urlopen(url).read()
 soup = BeautifulSoup(html, features="html.parser")
 
