@@ -82,7 +82,10 @@ Search Result:
 
 Answer given:
 
-xtermjs is a library that expose an api, that allow us to build fully xterm based terminal emulator. But for every of the terminal functionalities you need to implement it through the api. Using the event listeners. And handling them. And combining it with others packages depend on what you want to achieve.
+xtermjs is a library that expose an api, that allow us to build fully xterm based terminal emulator. 
+But for every of the terminal functionalities you need to implement it through the api. Using the event listeners. 
+And handling them. 
+And combining it with others packages depend on what you want to achieve.
 
 ## References
 - extract.py [Extracting text from HTML file using Python](https://stackoverflow.com/questions/328356/extracting-text-from-html-file-using-python)
